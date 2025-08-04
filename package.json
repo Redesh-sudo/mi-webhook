@@ -5,10 +5,10 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
-}
+},
 
   "keywords": [],
-  "author": "",
+  "author": "Redesh-sudo",
   "license": "ISC",
   "dependencies": {
     "express": "^5.1.0",
